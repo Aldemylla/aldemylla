@@ -32,6 +32,9 @@ I’m a "Web Development" Undergraduate who is interested in front-end developme
 </span>
 <a href="https://github.com/aldemylla"><img alt="Aldemylla's Activity Graph" height="271px" src="https://activity-graph.herokuapp.com/graph?username=aldemylla&custom_title=Aldemylla's%20Contribution%20Graph&theme=react-dark" />
 </details>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
   
 <!--
 **Aldemylla/aldemylla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
