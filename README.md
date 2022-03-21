@@ -2,35 +2,32 @@
 
 I’m a "Web Development" Undergraduate who is interested in front-end development. Currently, I am working at [Astrolinks](https://github.com/Astrolinks).
 
-### Languages and Tools: 
+### Skills: 
 
-<span>
-<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" title="JavaScript">
-<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" title="TypeScript">
-<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" title="React.js">
+<a href="https://github.com/Aldemylla/aldemylla">
+  <img alt="React" src="https://img.shields.io/badge/-React-2987a1?style=flat-square&logo=react&logoColor=white"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" />
+  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-5415a5?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-e1cb15?style=flat-square&logo=JavaScript&logoColor=gray" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-e8b23a?style=flat-square&logo=prettier&logoColor=gray" />
+</a>
+<br/><br/>
 
-<img height="30" src="https://logospng.org/download/html-5/logo-html-5-2048.png" title="HTML5">
-<img height="30" src="https://logospng.org/download/css-3/logo-css-3-2048.png" title="CSS3">
-<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" title="Sass">
-
-<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" title="Git">
-<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" title="GitHub">
-<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/800px-Visual_Studio_Code_1.35_icon.svg.png" title="VS Code">
-<img height="30" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" title="Insomnia">
-<img height="30" src="https://seeklogo.com/images/P/prettier-logo-D5C5197E37-seeklogo.com.png" title="Prettier">
-<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" title="Node Package Manager (NPM)">
-</span>
-
-<details>
-  <summary><h3> GitHub Stats (expand to view):</h3></summary>
-  <span>
+### GitHub Stats:
+<a href="https://github.com/aldemylla">
 <p><img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldemylla&show_icons=true&theme=dark&langs_count=8&count_private=true&card_heigth=150&layout=compact" alt="languages most used by Aldemylla" /></p>
 
 <p><img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=aldemylla&show_icons=true&locale=en&theme=dark&langs_count=8&count_private=true&card_heigth=150&" alt="Aldemylla" /></p>
-</span>
-<a href="https://github.com/aldemylla"><img alt="Aldemylla's Activity Graph" height="271px" src="https://activity-graph.herokuapp.com/graph?username=aldemylla&custom_title=Aldemylla's%20Contribution%20Graph&theme=react-dark" />
-</details>
+</a>
+<br/>
 
+### Code Stats:
 <!--START_SECTION:waka-->
 
 ```text
@@ -50,12 +47,12 @@ No activity tracked
   </a> &nbsp;&nbsp;
 
   <a href="https://stackoverflow.com/users/16495476/aldemylla" target="_blank">
-    <img align="center" alt="Aldemylla's Stackoverflow" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png" />
+    <img align="center" alt="Aldemylla's Stackoverflow" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png" />
   </a>
 <p> 
 
 <div align="center">
-  Thanks for viewing my profile! Have a nice day! :wink: <br/>
+  Thanks for viewing my profile! Have a nice day! 😊 <br/>
   &copy; 2022 Aldemylla Maylla
 </div>
 <!--
