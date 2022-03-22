@@ -31,7 +31,8 @@ I’m a "Web Development" Undergraduate who is interested in front-end developme
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+TypeScript   3 mins          ████████████████████░░░░░   80.66 %
+INI          0 secs          █████░░░░░░░░░░░░░░░░░░░░   19.34 %
 ```
 
 <!--END_SECTION:waka-->
