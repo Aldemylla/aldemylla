@@ -4,7 +4,7 @@ I’m a "Web Development" Undergraduate who is interested in front-end developme
 
 ### Skills: 
 
-<a href="https://github.com/Aldemylla/aldemylla">
+<a href="https://github.com/Aldemylla/">
   <img alt="React" src="https://img.shields.io/badge/-React-2987a1?style=flat-square&logo=react&logoColor=white"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" />
@@ -47,7 +47,7 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
     <img align="center" alt="Aldemylla's mail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.linkedin.com/in/aldemylla-maylla/" target="_blank">
+  <a href="https://www.linkedin.com/in/aldemylla/" target="_blank">
     <img align="center" alt="Aldemylla's Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
 
