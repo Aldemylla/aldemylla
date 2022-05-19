@@ -31,12 +31,12 @@ I’m a "Web Development" Undergraduate who is interested in front-end developme
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   12 hrs 59 mins  ███████████████░░░░░░░░░░   59.58 %
-SCSS         6 hrs 9 mins    ███████░░░░░░░░░░░░░░░░░░   28.25 %
-JavaScript   1 hr 28 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
-CSS          37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
-JSON         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-Markdown     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+TypeScript   11 hrs 53 mins  ███████████████▒░░░░░░░░░   61.28 %
+SCSS         4 hrs 12 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.68 %
+JavaScript   2 hrs 8 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 %
+CSS          36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+JSON         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+Markdown     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 ```
 
 <!--END_SECTION:waka-->
