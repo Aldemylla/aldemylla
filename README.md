@@ -1,4 +1,4 @@
-<h1 align="left">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, My name is Aldemylla <img align="right" src="https://komarev.com/ghpvc/?username=aldemylla&color=blue" alt="Profile views" /></h1>
+<h1 align="left">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, My name is Aldemylla <img align="right" src="https://komarev.com/ghpvc/?username=aldemylla&color=blue" alt="Profile views" /></h1>
 
 I’m a "Web Development" Undergraduate who is interested in front-end development. Currently, I am working at [Astrolinks](https://github.com/Astrolinks).
 
