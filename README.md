@@ -32,7 +32,6 @@ I’m a "Web Development" Undergraduate who is interested in front-end developme
 
 ```text
 TypeScript   5 hrs 48 mins   █████████████████████████   100.00 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
