@@ -31,7 +31,7 @@ I’m a "Web Development" Undergraduate who is interested in front-end developme
 <!--START_SECTION:waka-->
 
 ```text
-Python   1 hr 11 mins    █████████████████████████   100.00 %
+Python   52 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
