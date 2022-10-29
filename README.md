@@ -31,12 +31,12 @@ I’m a "Web Development" Undergraduate who is interested in front-end developme
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js       14 hrs 43 mins  █████████████████▒░░░░░░░   69.65 %
-JavaScript   4 hrs 24 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.87 %
-SCSS         44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-Markdown     37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
-JSON         28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-Git Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Vue.js       14 hrs 8 mins   ████████████████████░░░░░   79.63 %
+JavaScript   2 hrs 54 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.36 %
+SCSS         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+Markdown     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+XML          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
