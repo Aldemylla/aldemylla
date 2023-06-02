@@ -1,6 +1,6 @@
 <h1 align="left">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, My name is Aldemylla <img align="right" src="https://komarev.com/ghpvc/?username=aldemylla&color=blue" alt="Profile views" /></h1>
 
-I'm a brazilian web developer focused on frontend, graduate in "Web Development" and currently working at @Weni.
+I'm a brazilian web developer focused on frontend, graduate in "Web Development" and currently working at @weni-ai
 
 ### Skills: 
 
