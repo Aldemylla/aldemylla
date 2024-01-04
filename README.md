@@ -39,11 +39,11 @@ I'm a brazilian web developer focused on frontend, graduate in "Web Development"
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js       4 hrs 40 mins   ███████████████░░░░░░░░░░   60.11 %
-JavaScript   2 hrs 44 mins   ████████▓░░░░░░░░░░░░░░░░   35.27 %
-JSON         21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Vue.js       4 hrs 45 mins   ████████████████▒░░░░░░░░   65.63 %
+JavaScript   2 hrs 1 min     ███████░░░░░░░░░░░░░░░░░░   27.94 %
+JSON         23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
+Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
